@@ -1,6 +1,6 @@
 ### Hi there, I'm Esha 👋
 
-#I am a 3rd Year Undergrad in Computer Science
+I am a 3rd Year Undergrad in Computer Science
 
 - 🔭 I’m currently working on OpenCV based projects.
 - 🌱 I’m currently learning OpenCV and DSA.
