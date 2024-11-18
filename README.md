@@ -14,11 +14,11 @@ Undergrad in Bachelor of Technology in Computer Science.
 
 <br />
 
-<h3 align="center">
+<!-- <h3 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a href="https://aseem-b.vercel.app/" target="_blank">Aseem Baranwal</a></b>
         </samp>
-</h3>
+</h3> -->
 
 
 <p align="center"> 
@@ -31,15 +31,15 @@ Undergrad in Bachelor of Technology in Computer Science.
 </p>
 
 <p align="center">
- <a href="https://aseem-b.vercel.app/" target="blank">
+ <!-- <a href="https://aseem-b.vercel.app/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="akash" />
- </a>
- <a href="https://linkedin.com/in/aseembaranwal" target="_blank">
+ </a> -->
+ <a href="https://www.linkedin.com/in/eshapandey/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="akash"/>
  </a>
-  <a href="https://leetcode.com/the_kalakar" target="_blank">
+  <!-- <a href="https://leetcode.com/the_kalakar" target="_blank">
   <img src="https://img.shields.io/badge/Leetcode-grey?style=for-the-badge&logo=leetcode&logoColor=orange" alt="akash"/>
- </a>
+ </a> -->
 </p>
 
 
