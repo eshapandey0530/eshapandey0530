@@ -24,7 +24,7 @@ Undergrad in Bachelor of Technology in Computer Science.
 <p align="center"> 
   <samp>
     <br>
-    「 Hello! I'm Aseem Baranwal, a Computer Science Graduate Student at the University of Florida. With a strong background in both software development and research, I've had the privilege of working on diverse projects, ranging from augmented reality applications to deep learning models. My experiences have given me proficiency in a variety of technical skills such as C++, Python, Java, and many more. Not only am I enthusiastic about crafting robust software, but I'm also deeply involved in academic research, particularly in the fields of Natural Language Processing and data visualization. 」
+    「 I am an Information Systems Graduate Student at New York University, combining a strong foundation in software development with hands-on experience in product design and data-driven decision-making. My professional journey includes building scalable solutions using Java, Python, and Angular, and redeveloping SAP tools that significantly improved performance and user engagement. I have also delved into projects leveraging machine learning and data science, such as developing real-time gesture recognition systems and automating data cleaning workflows. My technical expertise spans cloud technologies, RESTful APIs, Tableau, and TensorFlow, and I am passionate about creating impactful, user-focused solutions at the intersection of technology and business. 」
     <br>
     <br>
   </samp>
