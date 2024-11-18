@@ -1,18 +1,13 @@
 <!-- Intro  -->
 ### Hi there, I'm Esha 👋
 
-Undergrad in Bachelor of Technology in Computer Science.
 
-- 📆 Currently working as a Software Engineer at Infosys
-- 📫 How to reach me: epandey705@gmail.com
 
-### Connect with me :
-
-<a href="https://www.linkedin.com/in/eshapandey/"><img align="left" alt="eshapandey0530 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<!-- <a href="https://www.linkedin.com/in/eshapandey/"><img align="left" alt="eshapandey0530 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
 <a href="https://www.instagram.com/esha_pandey/saved/"><img align="left" alt="eshapandey0530 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
-<br />
+<br /> -->
 
 <!-- <h3 align="center">
         <samp>&gt; Hey There!, I am
@@ -49,9 +44,9 @@ Undergrad in Bachelor of Technology in Computer Science.
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; Problem-solver, backend & full-stack developer, Data Science Enthusiast <br/><br/>
- ❤️ &emsp; Building full-stack applications and intgrating them with machine learning<br/><br/>
- 📧 &emsp; Feel free to reach me out at a.baranwal@ufl.edu<br/><br/>
+ ✌️ &emsp; Problem-solver, full-stack developer, Data Science Enthusiast <br/><br/>
+ <!-- ❤️ &emsp; Building full-stack applications and intgrating them with machine learning<br/><br/> -->
+ 📧 &emsp; Feel free to reach me out at epandey705@gmail.com<br/><br/>
 
 
 </p>
@@ -59,12 +54,12 @@ Undergrad in Bachelor of Technology in Computer Science.
 ## Key Highlights:
 
 🔧 Technical Skills: Proficient in C++, Python, Java, JavaScript, and a range of ML Libraries & Web Technologies.  
-📚 Education: Bachelor's from MMMUT and currently pursuing a Masters at the University of Florida.  
-🚀 Experience: Roles at CloudNuro.ai, University of Florida, Tata Consultancy Services, and a unique stint with the School of Innovation by Facebook.  
-🏆 Achievements: Stellar performance in competitive coding, academic contributions, and leadership roles in collegiate extracurricular activities.  
+📚 Education: Bachelor's of Technology in Computer Science Engineering from JUIT, India and currently pursuing a Masters at New York University.  
+🚀 Experience: Worked as a Software Developer at Infosys.  
+🙋‍♀️ Leadership: Secretary at Women in Engineering - IEEE at JUIT, India.
 
 ### Roles I see myself to be a perfect fit in:
-![Backend](https://img.shields.io/badge/Backend-sky?style=for-the-badge&labelColor=black&logo=backend&logoColor=F0DB4F)
+![Technical Product Manager](https://img.shields.io/badge/Product-manager-sky?style=for-the-badge&labelColor=black&logo=backend&logoColor=F0DB4F)
 ![Full Stack Development](https://img.shields.io/badge/Full-stack-blue?style=for-the-badge&logo=fullstack&logoColor=F0DB4F)
 ![Machine Learning](https://img.shields.io/badge/Machine-learning-green?style=for-the-badge&labelColor=black&logo=fullstack&logoColor=F0DB4F)
 
