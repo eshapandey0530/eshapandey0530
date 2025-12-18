@@ -57,7 +57,6 @@
 🔧 Technical Skills: Proficient in C++, Python, Java, JavaScript, and a range of ML Libraries & Web Technologies.  
 📚 Education: Bachelor's of Technology in Computer Science Engineering from JUIT, India and currently pursuing a Masters at New York University.  
 🚀 Experience: Worked as a Software Developer at Infosys.  
-🙋‍♀️ Leadership: Secretary at Women in Engineering - IEEE at JUIT, India.
 
 ### Roles I see myself to be a perfect fit in:
 ![Technical Product Manager](https://img.shields.io/badge/Product-manager-sky?style=for-the-badge&labelColor=black&logo=backend&logoColor=F0DB4F)
