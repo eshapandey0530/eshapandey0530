@@ -33,16 +33,14 @@ Python • FastAPI • SQL • AWS • LangChain • TensorFlow • Scikit-learn
 ---
 
 📫 Reach me: epandey705@gmail.com  
-🔗 LinkedIn: <a href="https://www.linkedin.com/in/eshapandey/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="akash"/>
- </a>
+🔗 LinkedIn: <a href="https://www.linkedin.com/in/eshapandey/" target="_blank"> </a>
 
-<!--
 
-<!-- Intro  -->
+
+<!-- Intro  
 ### Hi there, I'm Esha 👋
 
-
+-->
 
 <!-- <a href="https://www.linkedin.com/in/eshapandey/"><img align="left" alt="eshapandey0530 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
@@ -56,6 +54,7 @@ Python • FastAPI • SQL • AWS • LangChain • TensorFlow • Scikit-learn
         </samp>
 </h3> -->
 
+<!--
 
 <p align="center"> 
   <samp>
@@ -77,10 +76,11 @@ Python • FastAPI • SQL • AWS • LangChain • TensorFlow • Scikit-learn
   <img src="https://img.shields.io/badge/Leetcode-grey?style=for-the-badge&logo=leetcode&logoColor=orange" alt="akash"/>
  </a> -->
 </p>
-
+-->
 
 <!-- About Section -->
- # About me
+<!--
+# About me
  
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
@@ -98,6 +98,8 @@ Python • FastAPI • SQL • AWS • LangChain • TensorFlow • Scikit-learn
 🔧 Technical Skills: Proficient in C++, Python, Java, JavaScript, and a range of ML Libraries & Web Technologies.  
 📚 Education: Bachelor's of Technology in Computer Science Engineering from JUIT, India and currently pursuing a Masters at New York University.  
 🚀 Experience: Worked as a Software Developer at Infosys.  
+
+-->
 
 ### Roles I see myself to be a perfect fit in:
 ![Technical Product Manager](https://img.shields.io/badge/Product-manager-sky?style=for-the-badge&labelColor=black&logo=backend&logoColor=F0DB4F)
@@ -161,5 +163,3 @@ Python • FastAPI • SQL • AWS • LangChain • TensorFlow • Scikit-learn
   <a href="https://github.com/AseemBaranwal"><img alt="Aseem Top language" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AseemBaranwal&langs_count=10&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a> -->
-
--->
