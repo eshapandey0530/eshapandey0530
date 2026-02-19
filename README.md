@@ -37,10 +37,10 @@ Python • FastAPI • SQL • AWS • LangChain • TensorFlow • Scikit-learn
 
 
 
-<!-- Intro  
-### Hi there, I'm Esha 👋
+<!-- Intro  -->
+<!-- ### Hi there, I'm Esha 👋 -->
 
--->
+
 
 <!-- <a href="https://www.linkedin.com/in/eshapandey/"><img align="left" alt="eshapandey0530 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
@@ -65,16 +65,21 @@ Python • FastAPI • SQL • AWS • LangChain • TensorFlow • Scikit-learn
   </samp>
 </p>
 
-<p align="center">
+<p align="center">   
+-->
+
  <!-- <a href="https://aseem-b.vercel.app/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="akash" />
  </a> -->
+ <!--
  <a href="https://www.linkedin.com/in/eshapandey/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="akash"/>
  </a>
+ -->
   <!-- <a href="https://leetcode.com/the_kalakar" target="_blank">
   <img src="https://img.shields.io/badge/Leetcode-grey?style=for-the-badge&logo=leetcode&logoColor=orange" alt="akash"/>
  </a> -->
+<!--
 </p>
 -->
 
