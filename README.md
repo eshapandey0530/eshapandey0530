@@ -33,7 +33,7 @@ Python • FastAPI • SQL • AWS • LangChain • TensorFlow • Scikit-learn
 ---
 
 📫 Reach me: epandey705@gmail.com  
-🔗 LinkedIn: <a href="https://www.linkedin.com/in/eshapandey/" target="_blank"> </a>
+🔗 LinkedIn: <a href="https://www.linkedin.com/in/eshapandey/" target="https://www.linkedin.com/in/eshapandey/"> </a>
 
 
 
@@ -94,7 +94,7 @@ Python • FastAPI • SQL • AWS • LangChain • TensorFlow • Scikit-learn
   📧 &emsp; Feel free to reach me out at epandey705@gmail.com<br/><br/>
  <!-- ❤️ &emsp; Building full-stack applications and intgrating them with machine learning<br/><br/> -->
 
-
+<!--
 
 </p>
 
