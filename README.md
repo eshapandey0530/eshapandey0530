@@ -32,8 +32,8 @@ Python • FastAPI • SQL • AWS • LangChain • TensorFlow • Scikit-learn
 
 ---
 
-📫 Reach me: epandey705@gmail.com  
-🔗 LinkedIn: <a href="https://www.linkedin.com/in/eshapandey/" target="https://www.linkedin.com/in/eshapandey/"> </a>
+📫 Reach me: [epandey705@gmail.com](mailto:epandey705@gmail.com)
+🔗 LinkedIn:  [linkedin.com/in/eshapandey](https://www.linkedin.com/in/eshapandey/)
 
 
 
