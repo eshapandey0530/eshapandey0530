@@ -33,6 +33,7 @@ Python • FastAPI • SQL • AWS • LangChain • TensorFlow • Scikit-learn
 ---
 
 📫 Reach me: [epandey705@gmail.com](mailto:epandey705@gmail.com)
+
 🔗 LinkedIn:  [linkedin.com/in/eshapandey](https://www.linkedin.com/in/eshapandey/)
 
 
@@ -109,7 +110,7 @@ Python • FastAPI • SQL • AWS • LangChain • TensorFlow • Scikit-learn
 ### Roles I see myself to be a perfect fit in:
 ![Technical Product Manager](https://img.shields.io/badge/Product-manager-sky?style=for-the-badge&labelColor=black&logo=backend&logoColor=F0DB4F)
 ![Full Stack Development](https://img.shields.io/badge/Full-stack-blue?style=for-the-badge&logo=fullstack&logoColor=F0DB4F)
-![Machine Learning](https://img.shields.io/badge/Machine-learning-green?style=for-the-badge&labelColor=black&logo=fullstack&logoColor=F0DB4F)
+![AI Engineer](https://img.shields.io/badge/AI-Engineer-green?style=for-the-badge&labelColor=black&logo=fullstack&logoColor=F0DB4F)
 
 ### Languages I code
 ![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&labelColor=black&logo=python&logoColor=F0DB4F)
