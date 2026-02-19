@@ -120,3 +120,40 @@
   <a href="https://github.com/AseemBaranwal"><img alt="Aseem Top language" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AseemBaranwal&langs_count=10&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a> -->
+
+# Hi, I'm Esha 👋
+
+AI Systems / Backend Engineer with 2+ years of experience building production-grade enterprise systems and AI-integrated workflows.
+
+Previously Software Engineer at Infosys, where I built secure REST APIs, document ingestion pipelines, and role-based enterprise systems improving processing efficiency by 30%.
+
+Currently pursuing MS in Information Systems at NYU (Courant & Stern).
+
+---
+
+## 🔧 What I Build
+
+- Backend systems (Python, REST APIs, validation layers, RBAC)
+- LLM-integrated workflows (prompt orchestration, semantic retrieval, evaluation)
+- ML systems with deployment focus
+- Data pipelines & automation
+
+---
+
+## 🚀 Featured Projects
+
+- **AI Blog Generator (Automation + LLM orchestration)**
+- **LLM Semantic Book Recommender**
+- **Instacart Next-Basket Recommender**
+- **Real-Time Face Detection System**
+
+---
+
+## 🛠 Tech Stack
+
+Python • FastAPI • SQL • AWS • LangChain • TensorFlow • Scikit-learn • React • Docker
+
+---
+
+📫 Reach me: epandey705@gmail.com  
+🔗 LinkedIn: [your link]
