@@ -1,3 +1,44 @@
+# Hi, I'm Esha 👋
+
+AI Systems / Backend Engineer with 2+ years of experience building production-grade enterprise systems and AI-integrated workflows.
+
+Previously Software Engineer at Infosys, where I built secure REST APIs, document ingestion pipelines, and role-based enterprise systems improving processing efficiency by 30%.
+
+Currently pursuing MS in Information Systems at NYU (Courant & Stern).
+
+---
+
+## 🔧 What I Build
+
+- Backend systems (Python, REST APIs, validation layers, RBAC)
+- LLM-integrated workflows (prompt orchestration, semantic retrieval, evaluation)
+- ML systems with deployment focus
+- Data pipelines & automation
+
+---
+
+## 🚀 Featured Projects
+
+- **AI Blog Generator (Automation + LLM orchestration)**
+- **LLM Semantic Book Recommender**
+- **Instacart Next-Basket Recommender**
+- **Real-Time Face Detection System**
+
+---
+
+## 🛠 Tech Stack
+
+Python • FastAPI • SQL • AWS • LangChain • TensorFlow • Scikit-learn • React • Docker
+
+---
+
+📫 Reach me: epandey705@gmail.com  
+🔗 LinkedIn: <a href="https://www.linkedin.com/in/eshapandey/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="akash"/>
+ </a>
+
+<!--
+
 <!-- Intro  -->
 ### Hi there, I'm Esha 👋
 
@@ -121,39 +162,4 @@
   <br/>
 </a> -->
 
-# Hi, I'm Esha 👋
-
-AI Systems / Backend Engineer with 2+ years of experience building production-grade enterprise systems and AI-integrated workflows.
-
-Previously Software Engineer at Infosys, where I built secure REST APIs, document ingestion pipelines, and role-based enterprise systems improving processing efficiency by 30%.
-
-Currently pursuing MS in Information Systems at NYU (Courant & Stern).
-
----
-
-## 🔧 What I Build
-
-- Backend systems (Python, REST APIs, validation layers, RBAC)
-- LLM-integrated workflows (prompt orchestration, semantic retrieval, evaluation)
-- ML systems with deployment focus
-- Data pipelines & automation
-
----
-
-## 🚀 Featured Projects
-
-- **AI Blog Generator (Automation + LLM orchestration)**
-- **LLM Semantic Book Recommender**
-- **Instacart Next-Basket Recommender**
-- **Real-Time Face Detection System**
-
----
-
-## 🛠 Tech Stack
-
-Python • FastAPI • SQL • AWS • LangChain • TensorFlow • Scikit-learn • React • Docker
-
----
-
-📫 Reach me: epandey705@gmail.com  
-🔗 LinkedIn: [your link]
+-->
