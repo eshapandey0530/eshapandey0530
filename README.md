@@ -36,6 +36,7 @@ Python • FastAPI • SQL • AWS • LangChain • TensorFlow • Scikit-learn
 
 🔗 LinkedIn:  [linkedin.com/in/eshapandey](https://www.linkedin.com/in/eshapandey/)
 
+🔗 Portfolio:  [esha.onrender.com/](https://esha.onrender.com)
 
 
 <!-- Intro  -->
